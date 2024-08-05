@@ -1,5 +1,7 @@
 # React + Vite
 
+# NOTE :- Upgrade bg-color changer project using before larning React useSate hook and props
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
